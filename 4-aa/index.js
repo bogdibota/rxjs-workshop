@@ -1,1 +1,5 @@
-import { currentUserPromise, myFriendsPromise, profilePicturePromise } from '../3-promise/result.js';
+// basic async method
+
+// calling async methods
+
+// get user with friends and pictures

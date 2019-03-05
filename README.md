@@ -1,7 +1,7 @@
 # rxjs-workshop
 
-- **location** @Catalysts Cluj, new Office
-- **date** 12.10.2017 17:00
+- **location** @Catalysts Cluj, 2nd floor
+- **date** 05.03.2018 13:30
 
 How to use this
 ---

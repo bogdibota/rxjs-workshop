@@ -1,1 +1,4 @@
-import { currentUser, myFriends, profilePicture } from '../api';
+const result = {};
+
+// get user with friends and pictures
+

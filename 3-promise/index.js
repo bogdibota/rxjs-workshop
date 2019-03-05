@@ -1,7 +1,10 @@
-const basicPromise = new Promise((resolve) => {
-    setTimeout(() => {
-        resolve(42);
-    }, 1000);
-});
+// basic promise with timeout
 
-// import { currentUser, myFriends, profilePicture } from '../api';
+// interval promise
+
+// promise reject
+
+// create promises from api methods
+
+// get user with friends and pictures
+const result = {};
